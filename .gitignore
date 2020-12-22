@@ -1,5 +1,4 @@
 ./data/*
 ./data/resumes/*
 ./src/__pycache__/*
-./Notebooks/.ipynb_checkpoints/* 
-
+./Notebooks/.ipynb_checkpoints/
