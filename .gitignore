@@ -1,4 +1,5 @@
 ./data/*
+./data/csvs/*
 ./data/resumes/*
 ./src/__pycache__/*
 ./Notebooks/.ipynb_checkpoints/
